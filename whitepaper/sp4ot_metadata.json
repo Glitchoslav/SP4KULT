@@ -1,0 +1,13 @@
+{
+  "address": "0:5d1897aa174fd57fd83eadf93ee3e4903fb70f384943a47c3907937506368a56",
+  "name": "SP4 COMMUNITY",
+  "symbol": "SP4OT",
+  "decimals": 9,
+  "image": "https://storage.dyor.io/jettons/images/1762189539/91588331.png",
+  "description": "be real. be free. since 1994 → ∞\nBorn from chaos, forged by truth.\nSP4OT je komunita, nie korporát.",
+  "social_links": {
+    "telegram": "https://t.me/SP4OT",
+    "github": "https://github.com/Glitchoslav/SP4KULT",
+    "whitepaper": "https://raw.githubusercontent.com/Glitchoslav/SP4KULT/main/whitepaper/SP4OT_whitepaper.md"
+  }
+}
