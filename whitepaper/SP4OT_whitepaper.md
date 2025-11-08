@@ -11,7 +11,7 @@ Sme ľudia, ktorí tvoria **svoju vlastnú ekonomiku**.
 - 🔥 111 111 **SP4 Poklad** (community vault)
 - 🔥 111 111 **SP4 Farma / staking / drops**
 
-➡️ Whitepaper: `/whitepaper/SP4OT_whitepaper.md`  
+- 📄 Whitepaper (RAW): https://raw.githubusercontent.com/Glitchoslav/SP4KULT/refs/heads/main/whitepaper/SP4OT_whitepaper.md  
 ➡️ Telegram: https://t.me/SP4OT  
 ➡️ TON scan: https://tonviewer.com/EQBdGJeqF0_Vf9g-rfk-4-SQP7cPOElDpHw5B5N1BjaKVuK5
 
