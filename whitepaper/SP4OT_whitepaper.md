@@ -157,3 +157,9 @@ Toto je tribe.
 **Be real. Be free.**
 
 ---
+
+Commit message:
+
+Fix contact links (v1.1)
+
+
